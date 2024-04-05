@@ -1,0 +1,1001 @@
+"Hospital_Name","Year","Cancer_Type","Age_Group","Gender","Number_of_Deaths"
+"Westmead Hospital",2010,"Breast","19-35","Male",31
+"Westmead Hospital",2009,"Breast","19-35","Male",24
+"Royal Prince Alfred",2010,"Colon","36-50","Male",24
+"Royal Prince Alfred",2007,"Colon","36-50","Other",11
+"Westmead Hospital",2019,"Skin","19-35","Female",27
+"Children's Hospital",2007,"Lung","19-35","Female",43
+"St Vincent's",2012,"Lung","0-18","Male",38
+"Sydney Hospital",2008,"Leukemia","51-65","Male",36
+"Royal Prince Alfred",2019,"Colon","66+","Female",1
+"Westmead Hospital",2014,"Breast","0-18","Other",35
+"Children's Hospital",2019,"Leukemia","0-18","Male",11
+"Westmead Hospital",2012,"Skin","0-18","Male",35
+"Westmead Hospital",2022,"Breast","51-65","Male",18
+"Sydney Hospital",2018,"Breast","19-35","Female",8
+"St Vincent's",2014,"Colon","19-35","Other",48
+"Sydney Hospital",2020,"Breast","51-65","Female",36
+"Sydney Hospital",2012,"Colon","51-65","Female",34
+"Children's Hospital",2018,"Leukemia","66+","Other",31
+"Westmead Hospital",2015,"Leukemia","51-65","Female",18
+"Royal Prince Alfred",2022,"Lung","36-50","Male",40
+"Royal Prince Alfred",2023,"Leukemia","0-18","Male",32
+"Sydney Hospital",2010,"Skin","19-35","Male",29
+"Westmead Hospital",2014,"Leukemia","66+","Female",44
+"St Vincent's",2018,"Breast","51-65","Female",17
+"Sydney Hospital",2012,"Colon","36-50","Male",38
+"Westmead Hospital",2017,"Leukemia","0-18","Male",15
+"Children's Hospital",2022,"Leukemia","66+","Male",21
+"St Vincent's",2014,"Leukemia","51-65","Other",13
+"Royal Prince Alfred",2004,"Breast","36-50","Male",27
+"Children's Hospital",2012,"Breast","36-50","Female",38
+"Sydney Hospital",2012,"Breast","0-18","Other",23
+"Sydney Hospital",2020,"Breast","66+","Male",10
+"Royal Prince Alfred",2013,"Colon","66+","Female",45
+"Westmead Hospital",2011,"Lung","19-35","Male",16
+"St Vincent's",2021,"Skin","66+","Other",35
+"Children's Hospital",2009,"Skin","36-50","Male",41
+"Children's Hospital",2021,"Lung","19-35","Other",47
+"Westmead Hospital",2010,"Skin","19-35","Other",38
+"Sydney Hospital",2010,"Lung","51-65","Female",29
+"Royal Prince Alfred",2015,"Lung","51-65","Female",9
+"Children's Hospital",2012,"Skin","36-50","Female",48
+"Children's Hospital",2019,"Leukemia","19-35","Female",19
+"St Vincent's",2006,"Breast","51-65","Male",36
+"Children's Hospital",2006,"Leukemia","0-18","Male",30
+"Royal Prince Alfred",2017,"Lung","66+","Male",22
+"Sydney Hospital",2005,"Colon","19-35","Other",45
+"Sydney Hospital",2007,"Colon","19-35","Other",28
+"Westmead Hospital",2004,"Colon","51-65","Other",39
+"Sydney Hospital",2013,"Breast","0-18","Other",48
+"Children's Hospital",2009,"Leukemia","36-50","Male",11
+"Sydney Hospital",2006,"Colon","66+","Male",23
+"Royal Prince Alfred",2015,"Lung","51-65","Female",50
+"St Vincent's",2004,"Skin","66+","Other",14
+"St Vincent's",2015,"Breast","19-35","Female",36
+"Westmead Hospital",2016,"Skin","51-65","Other",47
+"Sydney Hospital",2021,"Skin","0-18","Male",48
+"Royal Prince Alfred",2004,"Colon","36-50","Other",10
+"Sydney Hospital",2012,"Skin","19-35","Other",43
+"Royal Prince Alfred",2005,"Leukemia","36-50","Male",24
+"St Vincent's",2006,"Skin","0-18","Female",20
+"Children's Hospital",2004,"Colon","19-35","Male",33
+"Children's Hospital",2021,"Skin","36-50","Male",30
+"Westmead Hospital",2008,"Leukemia","19-35","Male",5
+"Sydney Hospital",2013,"Breast","36-50","Male",16
+"St Vincent's",2014,"Lung","0-18","Male",34
+"Sydney Hospital",2022,"Skin","19-35","Female",23
+"Sydney Hospital",2019,"Skin","51-65","Other",20
+"Westmead Hospital",2018,"Colon","19-35","Female",42
+"St Vincent's",2010,"Leukemia","19-35","Female",32
+"Sydney Hospital",2019,"Lung","0-18","Male",5
+"Westmead Hospital",2021,"Breast","66+","Other",48
+"Children's Hospital",2022,"Colon","0-18","Other",12
+"Westmead Hospital",2007,"Breast","36-50","Female",30
+"Royal Prince Alfred",2022,"Colon","51-65","Other",47
+"Children's Hospital",2006,"Leukemia","0-18","Male",1
+"Children's Hospital",2005,"Breast","19-35","Female",12
+"Westmead Hospital",2016,"Colon","0-18","Other",8
+"Royal Prince Alfred",2007,"Leukemia","66+","Male",10
+"Royal Prince Alfred",2023,"Breast","19-35","Other",10
+"Royal Prince Alfred",2009,"Leukemia","66+","Female",7
+"St Vincent's",2006,"Breast","51-65","Male",21
+"Royal Prince Alfred",2011,"Skin","36-50","Male",10
+"Royal Prince Alfred",2008,"Lung","51-65","Male",30
+"St Vincent's",2008,"Colon","51-65","Other",15
+"St Vincent's",2022,"Colon","51-65","Other",6
+"Sydney Hospital",2015,"Leukemia","66+","Female",5
+"Westmead Hospital",2010,"Skin","66+","Male",25
+"Westmead Hospital",2017,"Leukemia","19-35","Male",19
+"Sydney Hospital",2020,"Breast","36-50","Male",7
+"Westmead Hospital",2005,"Leukemia","0-18","Female",44
+"Children's Hospital",2020,"Leukemia","51-65","Other",47
+"Royal Prince Alfred",2014,"Breast","0-18","Female",4
+"Westmead Hospital",2017,"Skin","19-35","Other",38
+"Royal Prince Alfred",2011,"Breast","19-35","Female",37
+"Children's Hospital",2004,"Leukemia","0-18","Male",16
+"Children's Hospital",2005,"Skin","19-35","Female",41
+"Westmead Hospital",2013,"Breast","51-65","Female",18
+"St Vincent's",2005,"Colon","19-35","Male",4
+"St Vincent's",2009,"Lung","0-18","Other",45
+"St Vincent's",2016,"Breast","36-50","Other",16
+"Children's Hospital",2015,"Breast","36-50","Male",45
+"Westmead Hospital",2006,"Skin","51-65","Female",35
+"Sydney Hospital",2011,"Lung","0-18","Female",32
+"Royal Prince Alfred",2004,"Breast","36-50","Female",6
+"Sydney Hospital",2017,"Colon","0-18","Other",17
+"Royal Prince Alfred",2014,"Leukemia","36-50","Female",31
+"Children's Hospital",2014,"Breast","19-35","Female",23
+"Westmead Hospital",2011,"Breast","19-35","Other",6
+"St Vincent's",2020,"Lung","51-65","Female",30
+"St Vincent's",2007,"Lung","66+","Female",10
+"Sydney Hospital",2015,"Colon","51-65","Female",20
+"St Vincent's",2018,"Leukemia","19-35","Other",21
+"Sydney Hospital",2017,"Leukemia","66+","Other",40
+"Westmead Hospital",2022,"Leukemia","51-65","Other",40
+"St Vincent's",2014,"Lung","0-18","Male",3
+"Westmead Hospital",2020,"Leukemia","19-35","Male",42
+"Children's Hospital",2009,"Lung","0-18","Male",50
+"St Vincent's",2015,"Lung","36-50","Other",50
+"St Vincent's",2022,"Colon","19-35","Other",26
+"St Vincent's",2020,"Breast","66+","Male",5
+"Sydney Hospital",2009,"Lung","66+","Female",24
+"Royal Prince Alfred",2008,"Lung","19-35","Female",47
+"Westmead Hospital",2020,"Breast","0-18","Male",15
+"St Vincent's",2019,"Skin","51-65","Female",15
+"Westmead Hospital",2012,"Lung","66+","Male",2
+"Sydney Hospital",2014,"Skin","19-35","Male",5
+"Children's Hospital",2008,"Skin","51-65","Other",17
+"Children's Hospital",2017,"Skin","19-35","Female",6
+"Royal Prince Alfred",2008,"Skin","66+","Female",29
+"Westmead Hospital",2014,"Colon","66+","Male",30
+"Children's Hospital",2016,"Lung","51-65","Female",5
+"Sydney Hospital",2023,"Breast","36-50","Female",28
+"St Vincent's",2007,"Colon","36-50","Male",4
+"Royal Prince Alfred",2007,"Leukemia","36-50","Male",14
+"St Vincent's",2014,"Leukemia","66+","Male",15
+"Children's Hospital",2023,"Breast","66+","Female",12
+"Children's Hospital",2009,"Lung","36-50","Female",21
+"Children's Hospital",2013,"Breast","19-35","Other",50
+"Children's Hospital",2023,"Lung","36-50","Male",6
+"Sydney Hospital",2020,"Lung","51-65","Other",38
+"Royal Prince Alfred",2014,"Colon","66+","Female",16
+"Sydney Hospital",2011,"Leukemia","0-18","Other",25
+"Royal Prince Alfred",2008,"Lung","51-65","Other",47
+"Children's Hospital",2022,"Lung","51-65","Male",48
+"Children's Hospital",2014,"Colon","0-18","Other",29
+"Sydney Hospital",2004,"Colon","51-65","Male",34
+"Royal Prince Alfred",2005,"Lung","66+","Other",27
+"Children's Hospital",2015,"Breast","0-18","Other",10
+"St Vincent's",2017,"Leukemia","0-18","Other",28
+"Royal Prince Alfred",2006,"Skin","36-50","Other",22
+"Royal Prince Alfred",2019,"Leukemia","19-35","Male",40
+"Westmead Hospital",2023,"Skin","0-18","Male",47
+"Sydney Hospital",2007,"Leukemia","0-18","Female",37
+"Sydney Hospital",2007,"Breast","0-18","Female",3
+"Children's Hospital",2004,"Skin","19-35","Female",43
+"Children's Hospital",2020,"Breast","0-18","Female",4
+"Westmead Hospital",2007,"Lung","19-35","Female",7
+"Royal Prince Alfred",2020,"Skin","66+","Female",14
+"Children's Hospital",2010,"Colon","51-65","Female",10
+"Children's Hospital",2008,"Colon","19-35","Male",20
+"Westmead Hospital",2012,"Breast","19-35","Other",47
+"Westmead Hospital",2009,"Leukemia","51-65","Female",35
+"Sydney Hospital",2012,"Leukemia","51-65","Male",28
+"St Vincent's",2006,"Leukemia","66+","Male",27
+"Royal Prince Alfred",2012,"Lung","66+","Male",15
+"Sydney Hospital",2020,"Breast","36-50","Female",4
+"Royal Prince Alfred",2006,"Leukemia","66+","Other",2
+"St Vincent's",2009,"Breast","0-18","Female",22
+"Children's Hospital",2021,"Breast","51-65","Other",46
+"Sydney Hospital",2020,"Skin","36-50","Male",33
+"Sydney Hospital",2016,"Colon","66+","Other",50
+"Sydney Hospital",2015,"Breast","51-65","Female",37
+"Children's Hospital",2018,"Leukemia","36-50","Female",1
+"Westmead Hospital",2013,"Leukemia","0-18","Male",2
+"Sydney Hospital",2019,"Skin","0-18","Other",43
+"Royal Prince Alfred",2004,"Skin","36-50","Other",32
+"Royal Prince Alfred",2009,"Breast","51-65","Other",36
+"Sydney Hospital",2018,"Lung","66+","Other",43
+"Royal Prince Alfred",2011,"Skin","66+","Other",45
+"Sydney Hospital",2004,"Colon","66+","Male",38
+"Children's Hospital",2009,"Skin","51-65","Female",5
+"Royal Prince Alfred",2020,"Colon","66+","Other",16
+"Westmead Hospital",2009,"Breast","51-65","Other",14
+"Children's Hospital",2008,"Colon","36-50","Female",3
+"St Vincent's",2012,"Lung","66+","Male",19
+"Children's Hospital",2013,"Leukemia","19-35","Other",50
+"Royal Prince Alfred",2006,"Breast","19-35","Female",14
+"Sydney Hospital",2012,"Colon","51-65","Male",2
+"St Vincent's",2021,"Leukemia","19-35","Other",41
+"Royal Prince Alfred",2022,"Breast","19-35","Other",49
+"Children's Hospital",2009,"Leukemia","0-18","Other",14
+"Sydney Hospital",2009,"Lung","66+","Male",30
+"Children's Hospital",2011,"Skin","51-65","Male",20
+"Sydney Hospital",2007,"Breast","19-35","Female",5
+"St Vincent's",2020,"Leukemia","66+","Male",3
+"Westmead Hospital",2023,"Breast","19-35","Female",4
+"Sydney Hospital",2009,"Breast","0-18","Other",18
+"Sydney Hospital",2010,"Lung","36-50","Male",6
+"Royal Prince Alfred",2010,"Lung","19-35","Male",1
+"St Vincent's",2014,"Colon","19-35","Other",20
+"Royal Prince Alfred",2004,"Leukemia","51-65","Male",50
+"Sydney Hospital",2022,"Colon","19-35","Female",5
+"Children's Hospital",2011,"Breast","66+","Male",15
+"Children's Hospital",2020,"Leukemia","19-35","Male",9
+"Sydney Hospital",2017,"Colon","19-35","Other",32
+"Sydney Hospital",2010,"Lung","51-65","Other",36
+"Children's Hospital",2006,"Colon","0-18","Female",20
+"Children's Hospital",2004,"Leukemia","19-35","Female",32
+"Royal Prince Alfred",2018,"Lung","66+","Female",40
+"Royal Prince Alfred",2017,"Colon","19-35","Female",46
+"Children's Hospital",2015,"Breast","19-35","Other",41
+"Sydney Hospital",2020,"Breast","36-50","Male",41
+"Sydney Hospital",2011,"Leukemia","19-35","Other",47
+"Children's Hospital",2004,"Skin","19-35","Male",27
+"Children's Hospital",2005,"Skin","19-35","Female",25
+"St Vincent's",2008,"Skin","0-18","Female",15
+"Children's Hospital",2016,"Skin","0-18","Other",21
+"Children's Hospital",2022,"Leukemia","0-18","Male",35
+"St Vincent's",2023,"Leukemia","0-18","Other",31
+"Royal Prince Alfred",2012,"Skin","19-35","Other",14
+"Children's Hospital",2019,"Leukemia","19-35","Male",3
+"Sydney Hospital",2004,"Lung","66+","Female",35
+"Sydney Hospital",2020,"Lung","66+","Male",26
+"Royal Prince Alfred",2021,"Breast","19-35","Male",6
+"Sydney Hospital",2013,"Leukemia","19-35","Other",31
+"Royal Prince Alfred",2012,"Breast","36-50","Male",5
+"Children's Hospital",2014,"Leukemia","0-18","Male",14
+"Sydney Hospital",2004,"Skin","19-35","Female",48
+"Westmead Hospital",2005,"Skin","19-35","Male",25
+"Royal Prince Alfred",2014,"Colon","36-50","Female",35
+"Royal Prince Alfred",2020,"Breast","0-18","Other",31
+"Children's Hospital",2017,"Breast","19-35","Female",19
+"St Vincent's",2021,"Skin","0-18","Other",31
+"Sydney Hospital",2017,"Lung","66+","Female",42
+"Children's Hospital",2023,"Breast","51-65","Male",19
+"Royal Prince Alfred",2011,"Breast","19-35","Female",25
+"Children's Hospital",2008,"Colon","51-65","Other",45
+"Royal Prince Alfred",2012,"Lung","66+","Other",23
+"Royal Prince Alfred",2013,"Skin","36-50","Female",30
+"St Vincent's",2020,"Breast","0-18","Female",25
+"Westmead Hospital",2023,"Skin","51-65","Male",6
+"St Vincent's",2010,"Breast","36-50","Female",16
+"Westmead Hospital",2015,"Leukemia","19-35","Other",23
+"Westmead Hospital",2014,"Colon","51-65","Male",7
+"Westmead Hospital",2021,"Skin","0-18","Other",9
+"Children's Hospital",2015,"Leukemia","51-65","Male",14
+"Westmead Hospital",2010,"Breast","36-50","Other",33
+"Royal Prince Alfred",2006,"Lung","0-18","Male",20
+"Westmead Hospital",2017,"Colon","19-35","Male",3
+"Sydney Hospital",2021,"Leukemia","66+","Male",40
+"Children's Hospital",2019,"Breast","36-50","Other",50
+"Sydney Hospital",2020,"Colon","19-35","Female",2
+"St Vincent's",2009,"Skin","51-65","Female",36
+"Royal Prince Alfred",2009,"Lung","36-50","Female",21
+"Royal Prince Alfred",2007,"Leukemia","51-65","Female",22
+"St Vincent's",2008,"Breast","36-50","Other",44
+"Sydney Hospital",2017,"Colon","0-18","Female",17
+"St Vincent's",2013,"Breast","51-65","Other",49
+"Children's Hospital",2011,"Breast","19-35","Male",24
+"Children's Hospital",2013,"Lung","51-65","Male",47
+"Westmead Hospital",2017,"Breast","0-18","Male",29
+"Children's Hospital",2018,"Skin","51-65","Other",19
+"Children's Hospital",2022,"Colon","51-65","Male",29
+"Westmead Hospital",2004,"Skin","36-50","Male",45
+"Sydney Hospital",2005,"Lung","0-18","Other",25
+"Westmead Hospital",2018,"Lung","19-35","Other",34
+"St Vincent's",2013,"Breast","19-35","Other",33
+"Royal Prince Alfred",2008,"Skin","66+","Male",5
+"Children's Hospital",2008,"Leukemia","51-65","Female",17
+"Sydney Hospital",2020,"Breast","36-50","Male",26
+"St Vincent's",2020,"Leukemia","0-18","Other",6
+"Westmead Hospital",2021,"Leukemia","0-18","Other",42
+"Sydney Hospital",2005,"Leukemia","66+","Female",47
+"Royal Prince Alfred",2014,"Lung","0-18","Other",14
+"Westmead Hospital",2008,"Colon","51-65","Female",38
+"Westmead Hospital",2020,"Breast","19-35","Male",10
+"Sydney Hospital",2017,"Leukemia","36-50","Female",21
+"Royal Prince Alfred",2006,"Lung","51-65","Other",39
+"Sydney Hospital",2013,"Colon","51-65","Female",11
+"Royal Prince Alfred",2016,"Breast","0-18","Other",10
+"Royal Prince Alfred",2022,"Skin","19-35","Other",44
+"Royal Prince Alfred",2005,"Breast","51-65","Female",46
+"Children's Hospital",2020,"Breast","19-35","Female",7
+"St Vincent's",2012,"Skin","66+","Other",3
+"St Vincent's",2022,"Leukemia","36-50","Other",15
+"Children's Hospital",2021,"Skin","36-50","Male",43
+"St Vincent's",2012,"Colon","19-35","Other",22
+"Sydney Hospital",2017,"Leukemia","51-65","Male",34
+"Royal Prince Alfred",2018,"Skin","19-35","Male",31
+"Sydney Hospital",2009,"Colon","19-35","Other",31
+"Royal Prince Alfred",2011,"Colon","0-18","Male",43
+"Westmead Hospital",2023,"Breast","66+","Male",11
+"Royal Prince Alfred",2005,"Leukemia","36-50","Other",11
+"Westmead Hospital",2004,"Breast","66+","Male",27
+"Sydney Hospital",2021,"Leukemia","51-65","Female",36
+"St Vincent's",2010,"Lung","36-50","Female",3
+"Royal Prince Alfred",2010,"Colon","0-18","Other",42
+"Westmead Hospital",2007,"Breast","19-35","Female",14
+"Children's Hospital",2008,"Colon","36-50","Female",50
+"Children's Hospital",2014,"Leukemia","51-65","Male",49
+"Westmead Hospital",2013,"Leukemia","19-35","Other",34
+"Royal Prince Alfred",2014,"Breast","19-35","Other",13
+"Children's Hospital",2004,"Skin","36-50","Other",15
+"St Vincent's",2013,"Breast","19-35","Female",31
+"Royal Prince Alfred",2015,"Leukemia","36-50","Other",3
+"Sydney Hospital",2010,"Skin","19-35","Female",30
+"St Vincent's",2008,"Colon","66+","Male",19
+"Sydney Hospital",2021,"Breast","36-50","Other",43
+"St Vincent's",2011,"Skin","51-65","Male",7
+"Children's Hospital",2018,"Skin","19-35","Other",27
+"St Vincent's",2010,"Colon","66+","Male",34
+"Royal Prince Alfred",2017,"Lung","66+","Other",31
+"Royal Prince Alfred",2013,"Skin","36-50","Other",16
+"St Vincent's",2019,"Leukemia","66+","Female",36
+"Westmead Hospital",2006,"Colon","66+","Male",33
+"Children's Hospital",2014,"Colon","19-35","Male",12
+"Royal Prince Alfred",2006,"Skin","66+","Other",18
+"Westmead Hospital",2011,"Breast","66+","Male",7
+"Westmead Hospital",2020,"Lung","0-18","Other",24
+"Westmead Hospital",2016,"Skin","0-18","Male",1
+"Sydney Hospital",2018,"Colon","36-50","Male",22
+"Sydney Hospital",2015,"Skin","19-35","Male",6
+"Westmead Hospital",2012,"Colon","0-18","Male",45
+"St Vincent's",2022,"Colon","0-18","Other",25
+"St Vincent's",2022,"Breast","51-65","Male",19
+"Children's Hospital",2009,"Leukemia","51-65","Other",13
+"Royal Prince Alfred",2016,"Lung","51-65","Other",6
+"Royal Prince Alfred",2012,"Breast","0-18","Male",44
+"St Vincent's",2014,"Leukemia","19-35","Female",12
+"Royal Prince Alfred",2017,"Leukemia","19-35","Male",2
+"Sydney Hospital",2022,"Breast","19-35","Male",37
+"St Vincent's",2021,"Colon","66+","Other",12
+"Westmead Hospital",2016,"Leukemia","66+","Other",48
+"Sydney Hospital",2015,"Skin","36-50","Other",12
+"Children's Hospital",2022,"Colon","19-35","Male",39
+"Westmead Hospital",2015,"Leukemia","51-65","Other",39
+"St Vincent's",2023,"Leukemia","51-65","Other",31
+"Royal Prince Alfred",2007,"Skin","51-65","Other",41
+"Children's Hospital",2019,"Colon","36-50","Male",42
+"Children's Hospital",2020,"Skin","0-18","Female",43
+"Royal Prince Alfred",2015,"Skin","66+","Other",10
+"Royal Prince Alfred",2005,"Breast","51-65","Other",7
+"Royal Prince Alfred",2008,"Breast","36-50","Male",18
+"Sydney Hospital",2022,"Leukemia","19-35","Male",14
+"Westmead Hospital",2016,"Colon","0-18","Male",5
+"St Vincent's",2010,"Lung","36-50","Male",9
+"Westmead Hospital",2008,"Breast","66+","Male",25
+"Westmead Hospital",2010,"Colon","51-65","Female",43
+"Westmead Hospital",2019,"Skin","0-18","Male",3
+"St Vincent's",2015,"Breast","66+","Other",28
+"St Vincent's",2014,"Lung","0-18","Female",17
+"Westmead Hospital",2022,"Skin","66+","Male",9
+"St Vincent's",2009,"Colon","66+","Other",13
+"Royal Prince Alfred",2015,"Skin","36-50","Other",9
+"Westmead Hospital",2016,"Breast","51-65","Male",26
+"St Vincent's",2009,"Breast","51-65","Other",41
+"Royal Prince Alfred",2013,"Leukemia","66+","Female",16
+"Sydney Hospital",2011,"Skin","0-18","Other",12
+"Westmead Hospital",2013,"Lung","51-65","Female",33
+"St Vincent's",2009,"Skin","66+","Female",5
+"Sydney Hospital",2022,"Colon","0-18","Other",18
+"Sydney Hospital",2020,"Lung","19-35","Male",11
+"St Vincent's",2005,"Leukemia","66+","Female",20
+"St Vincent's",2022,"Lung","36-50","Female",3
+"Children's Hospital",2022,"Lung","66+","Female",6
+"Sydney Hospital",2023,"Breast","66+","Male",43
+"St Vincent's",2016,"Colon","51-65","Other",47
+"Children's Hospital",2004,"Colon","66+","Other",31
+"Westmead Hospital",2009,"Leukemia","19-35","Other",18
+"Royal Prince Alfred",2008,"Colon","36-50","Female",50
+"Children's Hospital",2021,"Leukemia","0-18","Other",40
+"St Vincent's",2010,"Lung","66+","Female",34
+"St Vincent's",2020,"Colon","0-18","Female",29
+"Sydney Hospital",2018,"Skin","0-18","Male",36
+"Westmead Hospital",2008,"Colon","36-50","Male",11
+"Westmead Hospital",2008,"Breast","66+","Female",7
+"Westmead Hospital",2016,"Breast","0-18","Male",18
+"Children's Hospital",2011,"Breast","36-50","Male",35
+"Royal Prince Alfred",2022,"Skin","51-65","Male",24
+"Children's Hospital",2004,"Skin","19-35","Male",18
+"Royal Prince Alfred",2007,"Lung","36-50","Female",19
+"Sydney Hospital",2021,"Colon","66+","Other",44
+"St Vincent's",2007,"Skin","51-65","Female",21
+"Royal Prince Alfred",2011,"Breast","51-65","Other",43
+"Royal Prince Alfred",2007,"Colon","19-35","Male",25
+"Westmead Hospital",2021,"Lung","66+","Male",31
+"Children's Hospital",2017,"Leukemia","0-18","Female",43
+"Sydney Hospital",2015,"Skin","66+","Male",7
+"Westmead Hospital",2014,"Leukemia","36-50","Other",42
+"Westmead Hospital",2014,"Lung","66+","Other",42
+"Royal Prince Alfred",2020,"Lung","0-18","Female",47
+"Children's Hospital",2005,"Breast","0-18","Male",2
+"Sydney Hospital",2013,"Breast","36-50","Female",2
+"St Vincent's",2007,"Leukemia","36-50","Other",50
+"St Vincent's",2009,"Colon","19-35","Other",6
+"Sydney Hospital",2013,"Skin","19-35","Female",10
+"Westmead Hospital",2022,"Breast","19-35","Male",38
+"St Vincent's",2009,"Leukemia","51-65","Female",41
+"St Vincent's",2012,"Leukemia","36-50","Male",19
+"Sydney Hospital",2019,"Colon","51-65","Other",29
+"Children's Hospital",2016,"Breast","0-18","Other",5
+"Westmead Hospital",2012,"Leukemia","51-65","Male",40
+"St Vincent's",2010,"Colon","51-65","Female",14
+"Royal Prince Alfred",2022,"Skin","19-35","Other",10
+"Westmead Hospital",2013,"Colon","36-50","Male",35
+"Royal Prince Alfred",2021,"Skin","36-50","Other",37
+"Westmead Hospital",2011,"Leukemia","51-65","Female",31
+"Westmead Hospital",2019,"Breast","36-50","Male",50
+"Sydney Hospital",2018,"Skin","19-35","Male",12
+"Children's Hospital",2021,"Colon","19-35","Other",1
+"St Vincent's",2020,"Colon","36-50","Male",17
+"St Vincent's",2019,"Lung","66+","Male",15
+"Children's Hospital",2008,"Colon","0-18","Female",19
+"Westmead Hospital",2006,"Colon","66+","Other",12
+"Royal Prince Alfred",2009,"Skin","0-18","Female",3
+"St Vincent's",2022,"Breast","36-50","Other",39
+"Children's Hospital",2014,"Breast","36-50","Female",47
+"Royal Prince Alfred",2014,"Skin","19-35","Male",47
+"Westmead Hospital",2015,"Colon","0-18","Male",27
+"Westmead Hospital",2004,"Skin","36-50","Male",31
+"Sydney Hospital",2011,"Colon","36-50","Other",40
+"Westmead Hospital",2010,"Skin","19-35","Other",4
+"Royal Prince Alfred",2018,"Colon","0-18","Other",33
+"Westmead Hospital",2008,"Leukemia","0-18","Female",17
+"Westmead Hospital",2006,"Leukemia","51-65","Male",8
+"Sydney Hospital",2010,"Colon","19-35","Other",20
+"Royal Prince Alfred",2016,"Lung","19-35","Other",31
+"Royal Prince Alfred",2023,"Leukemia","51-65","Female",9
+"Royal Prince Alfred",2012,"Lung","19-35","Male",47
+"St Vincent's",2015,"Colon","36-50","Other",42
+"Sydney Hospital",2017,"Skin","19-35","Female",18
+"Children's Hospital",2010,"Colon","51-65","Male",41
+"Children's Hospital",2012,"Leukemia","36-50","Male",37
+"Westmead Hospital",2007,"Colon","51-65","Male",24
+"Westmead Hospital",2022,"Lung","0-18","Male",37
+"Children's Hospital",2012,"Leukemia","66+","Female",10
+"Sydney Hospital",2005,"Lung","51-65","Other",11
+"St Vincent's",2020,"Breast","36-50","Other",18
+"Royal Prince Alfred",2015,"Breast","19-35","Other",19
+"Children's Hospital",2017,"Colon","66+","Male",19
+"St Vincent's",2013,"Lung","0-18","Female",40
+"Children's Hospital",2010,"Colon","0-18","Male",11
+"Sydney Hospital",2019,"Leukemia","51-65","Other",43
+"Royal Prince Alfred",2005,"Lung","51-65","Other",33
+"Westmead Hospital",2013,"Colon","66+","Female",46
+"Sydney Hospital",2022,"Leukemia","19-35","Female",41
+"Sydney Hospital",2005,"Breast","19-35","Other",6
+"Westmead Hospital",2011,"Breast","66+","Other",17
+"Royal Prince Alfred",2004,"Colon","66+","Other",42
+"St Vincent's",2004,"Leukemia","66+","Male",47
+"Children's Hospital",2018,"Leukemia","0-18","Male",49
+"Westmead Hospital",2021,"Colon","66+","Other",8
+"St Vincent's",2006,"Lung","19-35","Other",13
+"Children's Hospital",2019,"Leukemia","51-65","Female",26
+"Westmead Hospital",2007,"Skin","51-65","Female",46
+"Sydney Hospital",2010,"Breast","36-50","Other",40
+"Children's Hospital",2005,"Colon","19-35","Female",2
+"Royal Prince Alfred",2017,"Colon","0-18","Other",11
+"St Vincent's",2007,"Breast","19-35","Male",38
+"Royal Prince Alfred",2020,"Skin","19-35","Other",13
+"Sydney Hospital",2022,"Breast","0-18","Other",14
+"Children's Hospital",2011,"Leukemia","19-35","Male",39
+"Royal Prince Alfred",2022,"Breast","19-35","Male",11
+"Children's Hospital",2010,"Skin","0-18","Other",43
+"Sydney Hospital",2015,"Skin","66+","Female",28
+"Sydney Hospital",2005,"Breast","0-18","Other",17
+"Royal Prince Alfred",2021,"Breast","0-18","Other",24
+"St Vincent's",2019,"Breast","66+","Other",28
+"Royal Prince Alfred",2020,"Skin","36-50","Male",41
+"Sydney Hospital",2014,"Colon","51-65","Other",33
+"Sydney Hospital",2005,"Lung","51-65","Other",23
+"Sydney Hospital",2017,"Skin","51-65","Other",6
+"St Vincent's",2020,"Lung","66+","Male",6
+"Sydney Hospital",2016,"Lung","0-18","Other",50
+"Westmead Hospital",2012,"Lung","19-35","Male",36
+"Royal Prince Alfred",2018,"Breast","36-50","Female",37
+"Sydney Hospital",2006,"Colon","66+","Other",30
+"Sydney Hospital",2009,"Skin","0-18","Male",33
+"Children's Hospital",2013,"Leukemia","36-50","Female",22
+"Children's Hospital",2015,"Breast","0-18","Female",9
+"St Vincent's",2018,"Leukemia","66+","Female",40
+"St Vincent's",2012,"Skin","36-50","Male",2
+"St Vincent's",2018,"Lung","66+","Female",19
+"Children's Hospital",2007,"Colon","19-35","Other",23
+"St Vincent's",2012,"Skin","66+","Other",39
+"Sydney Hospital",2008,"Lung","19-35","Other",7
+"Westmead Hospital",2017,"Leukemia","0-18","Male",9
+"Children's Hospital",2020,"Colon","66+","Other",24
+"St Vincent's",2005,"Skin","66+","Female",19
+"Royal Prince Alfred",2022,"Skin","0-18","Other",46
+"Sydney Hospital",2008,"Colon","51-65","Female",22
+"St Vincent's",2014,"Lung","0-18","Female",19
+"Sydney Hospital",2004,"Colon","19-35","Other",45
+"Westmead Hospital",2010,"Breast","66+","Male",9
+"Sydney Hospital",2018,"Colon","66+","Other",42
+"Westmead Hospital",2008,"Skin","36-50","Female",42
+"Westmead Hospital",2014,"Skin","36-50","Other",32
+"Royal Prince Alfred",2019,"Breast","66+","Female",36
+"Westmead Hospital",2013,"Breast","0-18","Other",11
+"St Vincent's",2005,"Breast","36-50","Female",44
+"Royal Prince Alfred",2009,"Lung","0-18","Male",24
+"Sydney Hospital",2015,"Colon","51-65","Female",36
+"Children's Hospital",2022,"Skin","51-65","Male",22
+"Westmead Hospital",2015,"Colon","36-50","Other",11
+"St Vincent's",2006,"Breast","36-50","Female",49
+"Children's Hospital",2011,"Leukemia","51-65","Female",38
+"Children's Hospital",2016,"Breast","51-65","Female",14
+"St Vincent's",2019,"Leukemia","66+","Female",13
+"Sydney Hospital",2005,"Skin","19-35","Male",45
+"Sydney Hospital",2016,"Lung","19-35","Other",1
+"St Vincent's",2016,"Colon","51-65","Female",41
+"Westmead Hospital",2009,"Skin","66+","Male",43
+"Children's Hospital",2022,"Breast","51-65","Male",47
+"Royal Prince Alfred",2014,"Lung","0-18","Male",19
+"Sydney Hospital",2015,"Colon","36-50","Male",9
+"St Vincent's",2014,"Skin","19-35","Male",20
+"St Vincent's",2004,"Breast","0-18","Male",33
+"St Vincent's",2011,"Colon","36-50","Other",41
+"Westmead Hospital",2004,"Lung","51-65","Female",14
+"Royal Prince Alfred",2011,"Lung","66+","Female",5
+"Royal Prince Alfred",2015,"Breast","0-18","Female",30
+"Westmead Hospital",2011,"Breast","19-35","Other",41
+"Children's Hospital",2019,"Lung","66+","Male",40
+"St Vincent's",2013,"Colon","51-65","Other",5
+"Westmead Hospital",2018,"Breast","66+","Male",30
+"Westmead Hospital",2013,"Colon","51-65","Female",23
+"Sydney Hospital",2011,"Lung","66+","Female",34
+"Children's Hospital",2011,"Breast","0-18","Female",30
+"Children's Hospital",2005,"Colon","51-65","Male",28
+"Sydney Hospital",2017,"Colon","51-65","Male",17
+"Sydney Hospital",2021,"Breast","0-18","Male",44
+"Sydney Hospital",2014,"Breast","0-18","Male",40
+"Children's Hospital",2005,"Skin","51-65","Female",28
+"Children's Hospital",2022,"Colon","0-18","Male",49
+"St Vincent's",2019,"Skin","36-50","Female",9
+"Royal Prince Alfred",2005,"Lung","36-50","Female",15
+"Royal Prince Alfred",2012,"Breast","66+","Other",6
+"St Vincent's",2008,"Breast","66+","Other",5
+"Royal Prince Alfred",2009,"Lung","36-50","Other",29
+"Sydney Hospital",2021,"Lung","19-35","Male",32
+"Westmead Hospital",2020,"Colon","0-18","Male",33
+"Children's Hospital",2015,"Leukemia","36-50","Male",15
+"Westmead Hospital",2018,"Lung","19-35","Other",22
+"Sydney Hospital",2005,"Lung","51-65","Male",2
+"Royal Prince Alfred",2017,"Skin","66+","Female",5
+"St Vincent's",2005,"Breast","19-35","Female",17
+"St Vincent's",2019,"Breast","19-35","Female",20
+"Sydney Hospital",2018,"Breast","51-65","Male",42
+"Children's Hospital",2013,"Skin","66+","Other",9
+"Sydney Hospital",2006,"Skin","66+","Other",50
+"St Vincent's",2005,"Leukemia","36-50","Other",1
+"Westmead Hospital",2014,"Lung","36-50","Male",3
+"St Vincent's",2011,"Leukemia","51-65","Other",11
+"Children's Hospital",2019,"Skin","66+","Male",32
+"Children's Hospital",2012,"Lung","66+","Female",11
+"St Vincent's",2018,"Lung","0-18","Female",49
+"Westmead Hospital",2016,"Colon","0-18","Male",30
+"Westmead Hospital",2021,"Colon","51-65","Female",37
+"Royal Prince Alfred",2018,"Colon","0-18","Male",29
+"Children's Hospital",2015,"Breast","19-35","Other",40
+"Children's Hospital",2012,"Leukemia","51-65","Female",30
+"Sydney Hospital",2006,"Colon","66+","Male",15
+"Westmead Hospital",2016,"Breast","51-65","Female",21
+"Royal Prince Alfred",2012,"Skin","0-18","Male",15
+"Westmead Hospital",2019,"Breast","19-35","Female",18
+"St Vincent's",2008,"Colon","51-65","Male",50
+"Royal Prince Alfred",2011,"Lung","19-35","Male",34
+"Children's Hospital",2021,"Skin","36-50","Female",39
+"Westmead Hospital",2009,"Colon","66+","Male",29
+"Westmead Hospital",2011,"Lung","51-65","Other",7
+"Royal Prince Alfred",2014,"Leukemia","36-50","Male",21
+"Royal Prince Alfred",2014,"Leukemia","19-35","Female",31
+"St Vincent's",2009,"Skin","0-18","Other",9
+"Royal Prince Alfred",2007,"Leukemia","0-18","Other",48
+"Sydney Hospital",2018,"Breast","66+","Female",3
+"St Vincent's",2020,"Breast","0-18","Other",44
+"Sydney Hospital",2011,"Lung","19-35","Male",19
+"Children's Hospital",2014,"Leukemia","0-18","Female",19
+"Royal Prince Alfred",2021,"Lung","36-50","Other",5
+"Children's Hospital",2017,"Breast","51-65","Other",23
+"Royal Prince Alfred",2015,"Breast","51-65","Other",4
+"Royal Prince Alfred",2011,"Breast","51-65","Other",41
+"Westmead Hospital",2006,"Breast","36-50","Other",21
+"Royal Prince Alfred",2013,"Lung","0-18","Male",25
+"Westmead Hospital",2022,"Breast","19-35","Male",31
+"Westmead Hospital",2015,"Breast","66+","Male",5
+"Sydney Hospital",2017,"Skin","19-35","Female",4
+"Sydney Hospital",2016,"Breast","51-65","Female",49
+"Children's Hospital",2009,"Colon","51-65","Other",6
+"Sydney Hospital",2010,"Skin","19-35","Other",39
+"Children's Hospital",2007,"Breast","36-50","Other",19
+"Sydney Hospital",2013,"Leukemia","51-65","Other",36
+"Royal Prince Alfred",2019,"Skin","36-50","Female",49
+"Sydney Hospital",2019,"Leukemia","66+","Other",33
+"Westmead Hospital",2006,"Lung","36-50","Male",29
+"Westmead Hospital",2022,"Breast","36-50","Female",17
+"St Vincent's",2022,"Breast","0-18","Female",23
+"Royal Prince Alfred",2010,"Leukemia","19-35","Male",38
+"St Vincent's",2009,"Leukemia","36-50","Female",2
+"Westmead Hospital",2018,"Skin","36-50","Female",27
+"Sydney Hospital",2005,"Lung","36-50","Other",8
+"Westmead Hospital",2017,"Breast","66+","Female",1
+"St Vincent's",2007,"Colon","51-65","Female",10
+"Royal Prince Alfred",2013,"Breast","19-35","Female",4
+"Children's Hospital",2008,"Skin","51-65","Female",30
+"Royal Prince Alfred",2015,"Breast","66+","Female",39
+"Sydney Hospital",2007,"Lung","0-18","Female",24
+"Royal Prince Alfred",2006,"Skin","19-35","Female",33
+"Westmead Hospital",2010,"Skin","51-65","Other",24
+"Westmead Hospital",2014,"Leukemia","19-35","Female",43
+"Royal Prince Alfred",2018,"Leukemia","19-35","Male",30
+"Royal Prince Alfred",2005,"Leukemia","36-50","Male",45
+"St Vincent's",2012,"Leukemia","36-50","Male",41
+"Children's Hospital",2016,"Lung","19-35","Other",5
+"Royal Prince Alfred",2014,"Leukemia","0-18","Male",6
+"Westmead Hospital",2011,"Skin","66+","Male",7
+"Sydney Hospital",2011,"Leukemia","19-35","Other",24
+"Children's Hospital",2009,"Skin","66+","Male",13
+"Westmead Hospital",2008,"Colon","19-35","Female",35
+"Royal Prince Alfred",2012,"Breast","36-50","Male",13
+"Sydney Hospital",2012,"Leukemia","66+","Male",9
+"St Vincent's",2008,"Leukemia","51-65","Other",3
+"St Vincent's",2019,"Colon","0-18","Female",13
+"Westmead Hospital",2013,"Breast","51-65","Male",31
+"Sydney Hospital",2004,"Colon","36-50","Other",22
+"Royal Prince Alfred",2013,"Colon","36-50","Male",43
+"Westmead Hospital",2005,"Skin","0-18","Female",20
+"Sydney Hospital",2006,"Skin","36-50","Male",1
+"Sydney Hospital",2016,"Leukemia","0-18","Other",21
+"Royal Prince Alfred",2010,"Breast","36-50","Other",32
+"Royal Prince Alfred",2016,"Breast","36-50","Other",47
+"St Vincent's",2018,"Colon","19-35","Female",8
+"Westmead Hospital",2009,"Skin","51-65","Female",28
+"Royal Prince Alfred",2018,"Breast","0-18","Female",24
+"Royal Prince Alfred",2005,"Breast","19-35","Other",39
+"Children's Hospital",2020,"Breast","19-35","Other",49
+"Sydney Hospital",2006,"Breast","19-35","Female",43
+"Westmead Hospital",2021,"Breast","19-35","Other",15
+"Royal Prince Alfred",2013,"Lung","19-35","Male",48
+"Royal Prince Alfred",2015,"Breast","36-50","Male",2
+"St Vincent's",2011,"Lung","51-65","Female",18
+"St Vincent's",2011,"Leukemia","66+","Male",28
+"St Vincent's",2012,"Lung","66+","Male",30
+"Children's Hospital",2007,"Skin","0-18","Male",39
+"Children's Hospital",2023,"Lung","66+","Other",36
+"St Vincent's",2018,"Skin","36-50","Male",46
+"St Vincent's",2020,"Leukemia","36-50","Other",46
+"Royal Prince Alfred",2005,"Lung","19-35","Female",11
+"Children's Hospital",2010,"Lung","51-65","Male",26
+"Royal Prince Alfred",2016,"Breast","66+","Male",32
+"Royal Prince Alfred",2011,"Leukemia","0-18","Other",12
+"St Vincent's",2020,"Lung","66+","Female",16
+"Children's Hospital",2015,"Lung","51-65","Male",48
+"Westmead Hospital",2016,"Colon","66+","Male",50
+"Westmead Hospital",2019,"Breast","19-35","Male",2
+"Royal Prince Alfred",2013,"Lung","66+","Male",4
+"Royal Prince Alfred",2008,"Breast","66+","Female",28
+"Sydney Hospital",2018,"Lung","19-35","Male",32
+"Westmead Hospital",2009,"Leukemia","19-35","Female",31
+"Children's Hospital",2020,"Breast","0-18","Female",31
+"Westmead Hospital",2008,"Breast","66+","Female",47
+"Children's Hospital",2014,"Breast","66+","Male",9
+"Sydney Hospital",2019,"Breast","19-35","Other",33
+"Royal Prince Alfred",2015,"Skin","0-18","Female",17
+"St Vincent's",2014,"Breast","19-35","Male",40
+"Westmead Hospital",2011,"Breast","51-65","Female",43
+"Children's Hospital",2004,"Leukemia","19-35","Other",24
+"Children's Hospital",2006,"Leukemia","0-18","Female",42
+"Children's Hospital",2017,"Leukemia","66+","Female",50
+"St Vincent's",2013,"Skin","36-50","Female",5
+"Westmead Hospital",2023,"Breast","36-50","Male",17
+"Westmead Hospital",2018,"Leukemia","36-50","Male",35
+"Royal Prince Alfred",2010,"Skin","51-65","Female",24
+"Royal Prince Alfred",2019,"Breast","19-35","Other",28
+"Royal Prince Alfred",2015,"Breast","19-35","Female",33
+"Royal Prince Alfred",2023,"Leukemia","66+","Female",12
+"Royal Prince Alfred",2012,"Leukemia","51-65","Other",16
+"Westmead Hospital",2006,"Lung","66+","Male",36
+"Sydney Hospital",2022,"Lung","51-65","Female",34
+"Sydney Hospital",2016,"Breast","19-35","Other",18
+"Sydney Hospital",2011,"Lung","66+","Other",16
+"Sydney Hospital",2020,"Lung","0-18","Female",12
+"Westmead Hospital",2007,"Breast","66+","Female",7
+"Sydney Hospital",2013,"Breast","19-35","Male",15
+"Royal Prince Alfred",2020,"Breast","36-50","Other",49
+"Westmead Hospital",2013,"Colon","66+","Male",11
+"St Vincent's",2008,"Colon","51-65","Other",3
+"St Vincent's",2014,"Leukemia","66+","Male",50
+"Westmead Hospital",2012,"Colon","0-18","Other",11
+"St Vincent's",2015,"Leukemia","51-65","Male",28
+"Royal Prince Alfred",2008,"Breast","36-50","Male",5
+"Westmead Hospital",2007,"Colon","19-35","Female",32
+"St Vincent's",2005,"Skin","36-50","Other",17
+"Westmead Hospital",2004,"Breast","36-50","Male",36
+"St Vincent's",2022,"Lung","0-18","Other",10
+"Children's Hospital",2019,"Breast","36-50","Other",22
+"Sydney Hospital",2014,"Lung","19-35","Male",14
+"Children's Hospital",2010,"Colon","51-65","Other",4
+"St Vincent's",2008,"Leukemia","0-18","Male",21
+"Children's Hospital",2005,"Breast","19-35","Other",44
+"Sydney Hospital",2012,"Colon","36-50","Female",47
+"Sydney Hospital",2018,"Skin","0-18","Other",18
+"Sydney Hospital",2009,"Leukemia","66+","Other",37
+"Royal Prince Alfred",2009,"Leukemia","36-50","Female",21
+"Royal Prince Alfred",2007,"Lung","19-35","Female",33
+"St Vincent's",2018,"Breast","19-35","Other",11
+"Sydney Hospital",2009,"Skin","51-65","Other",23
+"Royal Prince Alfred",2006,"Colon","19-35","Male",16
+"Sydney Hospital",2013,"Skin","36-50","Other",25
+"Westmead Hospital",2008,"Leukemia","51-65","Female",7
+"Westmead Hospital",2009,"Skin","0-18","Other",20
+"Sydney Hospital",2004,"Leukemia","0-18","Male",28
+"St Vincent's",2006,"Lung","66+","Female",28
+"Westmead Hospital",2011,"Colon","51-65","Female",36
+"Children's Hospital",2005,"Colon","36-50","Male",48
+"Royal Prince Alfred",2017,"Leukemia","19-35","Female",42
+"St Vincent's",2022,"Lung","36-50","Other",6
+"Royal Prince Alfred",2004,"Leukemia","36-50","Female",23
+"Royal Prince Alfred",2006,"Lung","0-18","Female",29
+"Sydney Hospital",2008,"Lung","36-50","Female",34
+"Sydney Hospital",2016,"Skin","51-65","Other",18
+"Westmead Hospital",2012,"Breast","36-50","Female",9
+"Children's Hospital",2020,"Colon","66+","Other",47
+"Children's Hospital",2018,"Colon","51-65","Female",45
+"Sydney Hospital",2017,"Lung","66+","Female",4
+"St Vincent's",2020,"Leukemia","36-50","Female",10
+"Royal Prince Alfred",2020,"Leukemia","66+","Male",49
+"Westmead Hospital",2011,"Leukemia","51-65","Other",2
+"Westmead Hospital",2008,"Breast","51-65","Other",14
+"Royal Prince Alfred",2015,"Breast","51-65","Other",41
+"Children's Hospital",2023,"Lung","0-18","Male",43
+"St Vincent's",2023,"Lung","19-35","Other",29
+"Sydney Hospital",2008,"Skin","19-35","Other",43
+"St Vincent's",2021,"Leukemia","51-65","Other",15
+"Westmead Hospital",2011,"Colon","66+","Male",46
+"Children's Hospital",2022,"Lung","36-50","Female",30
+"Children's Hospital",2006,"Leukemia","51-65","Male",1
+"St Vincent's",2008,"Skin","0-18","Other",22
+"Children's Hospital",2011,"Lung","36-50","Female",25
+"Sydney Hospital",2015,"Colon","51-65","Male",2
+"Children's Hospital",2008,"Leukemia","0-18","Other",39
+"St Vincent's",2018,"Breast","51-65","Female",11
+"Children's Hospital",2013,"Breast","0-18","Other",33
+"Children's Hospital",2023,"Leukemia","0-18","Female",41
+"Children's Hospital",2012,"Lung","19-35","Other",33
+"Westmead Hospital",2012,"Leukemia","0-18","Female",1
+"St Vincent's",2020,"Breast","0-18","Other",45
+"Children's Hospital",2012,"Skin","36-50","Male",41
+"Children's Hospital",2013,"Breast","36-50","Other",40
+"St Vincent's",2008,"Breast","36-50","Other",6
+"St Vincent's",2014,"Skin","51-65","Female",17
+"Westmead Hospital",2019,"Breast","51-65","Female",37
+"Westmead Hospital",2017,"Leukemia","19-35","Other",20
+"St Vincent's",2017,"Lung","66+","Male",22
+"Sydney Hospital",2016,"Colon","0-18","Other",43
+"St Vincent's",2018,"Colon","66+","Male",38
+"Royal Prince Alfred",2017,"Breast","36-50","Female",29
+"Royal Prince Alfred",2010,"Colon","36-50","Other",50
+"St Vincent's",2013,"Skin","0-18","Male",31
+"Sydney Hospital",2012,"Lung","66+","Male",15
+"Sydney Hospital",2016,"Leukemia","36-50","Female",45
+"Royal Prince Alfred",2017,"Colon","51-65","Female",31
+"St Vincent's",2019,"Colon","66+","Other",19
+"Children's Hospital",2008,"Breast","36-50","Other",34
+"Westmead Hospital",2016,"Leukemia","66+","Other",18
+"Sydney Hospital",2017,"Leukemia","36-50","Other",23
+"Westmead Hospital",2011,"Lung","36-50","Other",47
+"Westmead Hospital",2010,"Breast","51-65","Female",44
+"Royal Prince Alfred",2006,"Leukemia","36-50","Other",44
+"St Vincent's",2016,"Lung","0-18","Male",27
+"Sydney Hospital",2017,"Lung","51-65","Male",16
+"Westmead Hospital",2016,"Breast","36-50","Female",4
+"Children's Hospital",2016,"Colon","66+","Female",43
+"Children's Hospital",2017,"Skin","19-35","Other",48
+"Children's Hospital",2021,"Colon","19-35","Other",25
+"Royal Prince Alfred",2023,"Breast","66+","Male",19
+"Children's Hospital",2023,"Skin","19-35","Other",43
+"Children's Hospital",2014,"Skin","0-18","Male",6
+"Sydney Hospital",2011,"Breast","19-35","Other",33
+"Children's Hospital",2018,"Leukemia","66+","Other",39
+"Sydney Hospital",2011,"Leukemia","51-65","Female",11
+"Royal Prince Alfred",2018,"Lung","66+","Female",45
+"Sydney Hospital",2004,"Breast","36-50","Male",17
+"Sydney Hospital",2021,"Lung","0-18","Female",10
+"Royal Prince Alfred",2012,"Skin","19-35","Female",40
+"St Vincent's",2015,"Colon","0-18","Other",18
+"Children's Hospital",2020,"Lung","19-35","Other",32
+"Royal Prince Alfred",2016,"Skin","19-35","Female",20
+"Royal Prince Alfred",2019,"Lung","51-65","Other",1
+"Royal Prince Alfred",2004,"Colon","51-65","Male",16
+"St Vincent's",2009,"Lung","66+","Female",44
+"Children's Hospital",2020,"Breast","0-18","Female",22
+"Royal Prince Alfred",2009,"Breast","0-18","Other",32
+"Westmead Hospital",2007,"Breast","19-35","Male",19
+"Sydney Hospital",2013,"Leukemia","0-18","Other",24
+"St Vincent's",2018,"Lung","51-65","Other",5
+"Westmead Hospital",2005,"Leukemia","66+","Male",29
+"Westmead Hospital",2010,"Lung","51-65","Male",19
+"Westmead Hospital",2021,"Lung","51-65","Male",35
+"Royal Prince Alfred",2012,"Colon","0-18","Male",42
+"St Vincent's",2004,"Leukemia","0-18","Female",37
+"St Vincent's",2014,"Colon","0-18","Other",15
+"Royal Prince Alfred",2011,"Colon","19-35","Other",9
+"Westmead Hospital",2021,"Leukemia","19-35","Male",39
+"Sydney Hospital",2017,"Lung","51-65","Male",21
+"St Vincent's",2011,"Breast","51-65","Male",29
+"Sydney Hospital",2011,"Lung","19-35","Other",6
+"Sydney Hospital",2010,"Leukemia","0-18","Other",1
+"St Vincent's",2023,"Lung","66+","Female",46
+"Westmead Hospital",2021,"Leukemia","19-35","Other",26
+"Children's Hospital",2011,"Leukemia","51-65","Other",19
+"Royal Prince Alfred",2012,"Leukemia","36-50","Female",10
+"Children's Hospital",2009,"Skin","0-18","Female",15
+"Royal Prince Alfred",2014,"Colon","0-18","Other",43
+"St Vincent's",2019,"Colon","66+","Other",14
+"Royal Prince Alfred",2013,"Leukemia","51-65","Other",47
+"Royal Prince Alfred",2008,"Leukemia","0-18","Male",30
+"St Vincent's",2023,"Lung","66+","Female",13
+"St Vincent's",2012,"Colon","19-35","Male",43
+"Sydney Hospital",2006,"Lung","36-50","Male",39
+"Westmead Hospital",2005,"Lung","51-65","Female",41
+"Sydney Hospital",2006,"Leukemia","0-18","Male",31
+"Westmead Hospital",2004,"Skin","0-18","Other",15
+"Westmead Hospital",2011,"Colon","51-65","Female",35
+"Westmead Hospital",2006,"Lung","51-65","Other",36
+"Children's Hospital",2009,"Skin","0-18","Other",14
+"Royal Prince Alfred",2011,"Lung","51-65","Male",31
+"Sydney Hospital",2018,"Skin","51-65","Other",12
+"Children's Hospital",2020,"Lung","19-35","Female",20
+"Westmead Hospital",2023,"Breast","19-35","Female",18
+"Westmead Hospital",2022,"Skin","0-18","Male",13
+"Westmead Hospital",2021,"Lung","19-35","Female",32
+"Westmead Hospital",2006,"Skin","66+","Female",11
+"Sydney Hospital",2019,"Lung","51-65","Female",44
+"Westmead Hospital",2014,"Leukemia","19-35","Female",42
+"Westmead Hospital",2008,"Leukemia","51-65","Male",12
+"Royal Prince Alfred",2015,"Leukemia","19-35","Male",12
+"Children's Hospital",2006,"Skin","19-35","Female",20
+"Children's Hospital",2009,"Breast","19-35","Male",45
+"Royal Prince Alfred",2007,"Breast","0-18","Male",8
+"Children's Hospital",2013,"Skin","66+","Female",28
+"Royal Prince Alfred",2023,"Colon","51-65","Male",15
+"Westmead Hospital",2012,"Skin","36-50","Female",4
+"Sydney Hospital",2018,"Skin","36-50","Male",6
+"Westmead Hospital",2013,"Skin","66+","Female",16
+"Westmead Hospital",2021,"Lung","66+","Other",16
+"Children's Hospital",2014,"Breast","19-35","Other",45
+"Children's Hospital",2021,"Breast","0-18","Other",3
+"Royal Prince Alfred",2005,"Lung","0-18","Male",17
+"St Vincent's",2008,"Colon","66+","Other",1
+"Westmead Hospital",2008,"Leukemia","19-35","Other",47
+"Children's Hospital",2023,"Breast","51-65","Other",39
+"Sydney Hospital",2022,"Breast","19-35","Other",40
+"Sydney Hospital",2018,"Colon","36-50","Female",17
+"Children's Hospital",2005,"Skin","66+","Female",21
+"Westmead Hospital",2013,"Colon","0-18","Male",38
+"Royal Prince Alfred",2023,"Skin","66+","Other",17
+"Children's Hospital",2009,"Colon","0-18","Other",43
+"St Vincent's",2008,"Leukemia","0-18","Female",17
+"Sydney Hospital",2021,"Skin","19-35","Male",14
+"Children's Hospital",2012,"Colon","0-18","Other",50
+"Children's Hospital",2014,"Breast","19-35","Male",26
+"Sydney Hospital",2004,"Lung","36-50","Female",31
+"Sydney Hospital",2010,"Leukemia","19-35","Male",21
+"Children's Hospital",2017,"Leukemia","36-50","Other",50
+"St Vincent's",2011,"Colon","19-35","Female",5
+"Children's Hospital",2006,"Leukemia","0-18","Other",6
+"St Vincent's",2020,"Lung","51-65","Other",11
+"Children's Hospital",2016,"Skin","19-35","Other",44
+"Children's Hospital",2019,"Skin","66+","Male",11
+"Sydney Hospital",2004,"Lung","19-35","Other",42
+"Royal Prince Alfred",2008,"Leukemia","36-50","Male",19
+"Children's Hospital",2020,"Breast","51-65","Other",19
+"Sydney Hospital",2011,"Colon","19-35","Other",14
+"Children's Hospital",2022,"Lung","66+","Male",3
+"St Vincent's",2007,"Skin","19-35","Male",17
+"Westmead Hospital",2015,"Breast","36-50","Other",37
+"St Vincent's",2014,"Breast","19-35","Male",11
+"Westmead Hospital",2014,"Leukemia","66+","Other",47
+"Sydney Hospital",2013,"Leukemia","36-50","Male",49
+"Sydney Hospital",2022,"Breast","66+","Male",1
+"Sydney Hospital",2010,"Breast","0-18","Other",12
+"Children's Hospital",2020,"Leukemia","0-18","Other",46
+"Sydney Hospital",2017,"Skin","51-65","Female",15
+"St Vincent's",2014,"Colon","66+","Male",17
+"Children's Hospital",2005,"Leukemia","51-65","Female",7
+"Royal Prince Alfred",2016,"Breast","19-35","Other",28
+"Sydney Hospital",2023,"Colon","66+","Male",25
+"St Vincent's",2007,"Lung","51-65","Male",8
+"Children's Hospital",2006,"Breast","19-35","Other",42
+"Westmead Hospital",2013,"Skin","19-35","Other",11
+"Sydney Hospital",2023,"Leukemia","0-18","Female",50
+"St Vincent's",2004,"Colon","51-65","Female",30
+"St Vincent's",2023,"Breast","0-18","Other",4
+"Sydney Hospital",2022,"Skin","0-18","Other",34
+"Sydney Hospital",2010,"Lung","0-18","Female",25
+"Westmead Hospital",2010,"Lung","36-50","Other",8
+"St Vincent's",2010,"Lung","0-18","Male",24
+"Children's Hospital",2008,"Colon","0-18","Male",7
+"Sydney Hospital",2013,"Breast","19-35","Other",33
+"Sydney Hospital",2019,"Lung","66+","Female",35
+"Children's Hospital",2018,"Breast","19-35","Other",8
+"Westmead Hospital",2017,"Leukemia","36-50","Female",3
+"St Vincent's",2004,"Lung","36-50","Other",22
+"Westmead Hospital",2008,"Leukemia","66+","Female",31
+"Royal Prince Alfred",2015,"Skin","66+","Male",14
+"Royal Prince Alfred",2023,"Colon","19-35","Male",14
+"St Vincent's",2010,"Breast","66+","Other",39
+"Westmead Hospital",2004,"Skin","51-65","Male",29
+"Royal Prince Alfred",2012,"Skin","51-65","Female",4
+"St Vincent's",2018,"Colon","36-50","Male",33
+"St Vincent's",2012,"Breast","66+","Female",37
+"Children's Hospital",2023,"Lung","0-18","Other",14
+"Children's Hospital",2015,"Colon","36-50","Other",1
+"Sydney Hospital",2013,"Breast","19-35","Female",35
+"Children's Hospital",2006,"Lung","51-65","Female",29
+"Westmead Hospital",2012,"Lung","51-65","Female",21
+"Royal Prince Alfred",2014,"Leukemia","0-18","Male",50
+"Sydney Hospital",2010,"Colon","19-35","Male",21
+"Sydney Hospital",2020,"Breast","0-18","Other",24
+"Westmead Hospital",2007,"Colon","19-35","Other",18
+"Royal Prince Alfred",2012,"Leukemia","36-50","Male",37
+"Royal Prince Alfred",2018,"Breast","51-65","Other",8
+"Westmead Hospital",2004,"Leukemia","0-18","Other",29
+"Children's Hospital",2014,"Lung","66+","Male",39
+"Children's Hospital",2004,"Skin","36-50","Other",11
+"Children's Hospital",2008,"Colon","0-18","Female",2
+"St Vincent's",2020,"Colon","19-35","Male",37
+"Sydney Hospital",2011,"Leukemia","0-18","Female",14
+"Royal Prince Alfred",2020,"Lung","51-65","Other",14
+"St Vincent's",2007,"Skin","36-50","Female",12
+"Children's Hospital",2022,"Colon","19-35","Male",4
+"Royal Prince Alfred",2019,"Lung","66+","Male",8
+"St Vincent's",2015,"Colon","19-35","Male",29
+"Sydney Hospital",2006,"Lung","51-65","Male",48
+"Children's Hospital",2010,"Lung","66+","Female",39
+"St Vincent's",2013,"Colon","51-65","Female",19
+"Children's Hospital",2006,"Colon","66+","Female",26
+"Royal Prince Alfred",2023,"Colon","51-65","Male",12
+"Children's Hospital",2022,"Leukemia","66+","Other",16
+"St Vincent's",2007,"Leukemia","66+","Male",6
+"Sydney Hospital",2011,"Leukemia","19-35","Other",33
+"Royal Prince Alfred",2023,"Lung","19-35","Female",5
+"Royal Prince Alfred",2020,"Lung","19-35","Male",24
+"Royal Prince Alfred",2018,"Colon","19-35","Male",10
+"Children's Hospital",2012,"Lung","19-35","Other",24
+"Children's Hospital",2016,"Breast","51-65","Other",35
+"Westmead Hospital",2014,"Colon","51-65","Other",19
+"Royal Prince Alfred",2017,"Lung","19-35","Other",37
+"Royal Prince Alfred",2008,"Skin","51-65","Male",45
+"Westmead Hospital",2014,"Colon","66+","Female",7
+"Westmead Hospital",2008,"Skin","19-35","Male",28
+"Westmead Hospital",2004,"Breast","66+","Other",7
+"St Vincent's",2005,"Lung","51-65","Female",42
+"Sydney Hospital",2007,"Lung","66+","Male",14
+"Children's Hospital",2009,"Breast","0-18","Male",49
+"Royal Prince Alfred",2008,"Colon","19-35","Male",50
+"Sydney Hospital",2022,"Leukemia","51-65","Female",47
+"Sydney Hospital",2015,"Skin","36-50","Female",33
+"Sydney Hospital",2004,"Colon","19-35","Female",20
+"Children's Hospital",2013,"Colon","66+","Female",1
+"Sydney Hospital",2007,"Breast","0-18","Male",37
+"Royal Prince Alfred",2013,"Lung","0-18","Other",8
+"St Vincent's",2018,"Lung","51-65","Other",16
+"Royal Prince Alfred",2007,"Skin","19-35","Female",19
+"Children's Hospital",2011,"Leukemia","36-50","Other",32
+"Royal Prince Alfred",2017,"Breast","19-35","Male",26
+"Royal Prince Alfred",2011,"Skin","19-35","Male",28
+"Children's Hospital",2013,"Lung","19-35","Female",5
+"St Vincent's",2009,"Skin","0-18","Female",20
+"Westmead Hospital",2007,"Skin","36-50","Other",18
+"Children's Hospital",2014,"Colon","0-18","Other",34
+"Westmead Hospital",2019,"Breast","51-65","Male",34
+"St Vincent's",2010,"Skin","66+","Male",24
+"Sydney Hospital",2011,"Colon","0-18","Other",18
+"St Vincent's",2008,"Leukemia","51-65","Female",27
+"Royal Prince Alfred",2017,"Breast","0-18","Male",47
+"Sydney Hospital",2017,"Skin","51-65","Male",31
+"Children's Hospital",2023,"Leukemia","36-50","Other",43
+"Westmead Hospital",2010,"Breast","36-50","Other",37
+"St Vincent's",2012,"Breast","19-35","Male",44
+"St Vincent's",2023,"Leukemia","0-18","Other",3
+"Sydney Hospital",2015,"Lung","19-35","Female",29
+"St Vincent's",2014,"Breast","36-50","Female",7
+"St Vincent's",2020,"Leukemia","66+","Other",22
+"Westmead Hospital",2005,"Leukemia","19-35","Female",19
+"Sydney Hospital",2011,"Skin","0-18","Male",25
+"Children's Hospital",2008,"Breast","66+","Male",40
+"St Vincent's",2023,"Colon","19-35","Male",17
+"Westmead Hospital",2009,"Breast","66+","Other",7
+"St Vincent's",2006,"Colon","51-65","Other",25
+"St Vincent's",2023,"Leukemia","66+","Female",47
+"St Vincent's",2017,"Breast","51-65","Other",26
+"Westmead Hospital",2012,"Leukemia","51-65","Other",15
+"Westmead Hospital",2023,"Breast","51-65","Male",46
+"Westmead Hospital",2007,"Breast","51-65","Other",13
+"St Vincent's",2010,"Leukemia","66+","Female",4
+"Westmead Hospital",2022,"Breast","36-50","Male",18
+"Westmead Hospital",2011,"Lung","19-35","Other",26
+"Royal Prince Alfred",2009,"Colon","0-18","Male",1
